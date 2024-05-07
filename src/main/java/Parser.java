@@ -44,5 +44,6 @@ public class Parser {
 
     public static void main(String[] args) {
         //you can test your code here before you run the unit tests ;)
+        System.out.println("Hello world");
     }
 }
